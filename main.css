@@ -1,0 +1,21 @@
+body {
+    background-image: url(image/tải\ xuống\ \(3\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button {
+    background-color: #f44336; /* Màu nền */
+    color: white;
+    border: none;
+    padding: 20px 34px;
+    font-size: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.2s ease; /* Hiệu ứng scale */
+    margin-right: 20px;
+  }
+  
+  button:hover {
+    transform: scale(1.1); /* Phóng to khi hover */
+  }
+

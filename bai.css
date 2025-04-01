@@ -1,0 +1,17 @@
+body {
+    background-image: url(image/download\ \(8\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button {
+    background-color: black; /* Màu nền */
+    color: white; /* Màu chữ */
+    border: none; /* Loại bỏ viền mặc định */
+    border-radius: 8px; /* Bo góc */
+    padding: 10px 20px; /* Cách điệu kích thước */
+    font-size: 16px; /* Kích thước chữ */
+    cursor: pointer; /* Đổi con trỏ khi di chuột */
+    transition: background-color 0.3s ease; /* Hiệu ứng chuyển màu nền */
+  }
+  
+  

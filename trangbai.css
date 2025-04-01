@@ -1,0 +1,24 @@
+body {
+    background-image: url(image/coding-1841550_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button {
+    background-color:transparent;
+    color: white;
+    border: 2px solid #555; /* Viền */
+    padding: 12px 25px;
+    font-size: 16px;
+    border-radius: 30px; /* Bo góc */
+    cursor: pointer;
+    background-origin: border-box;
+    background-clip: content-box;
+    transition: all 0.4s ease;
+  
+  }
+  
+  button:hover {
+    cursor: pointer; /* Đổi con trỏ khi di chuột */
+    transition: background-color 0.3s ease; /* Hiệu ứng chuyển màu nền */
+    color: white;
+  }
